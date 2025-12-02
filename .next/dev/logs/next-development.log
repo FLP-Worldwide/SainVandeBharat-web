@@ -9638,3 +9638,1011 @@ Import traces:
 [05:25:45.660] Server  LOG      ✓ Compiled in 175ms
 [05:26:11.601] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
 [05:26:20.841] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:29:15.658] Server  LOG      ✓ Compiled in 160ms
+[05:29:34.672] Server  LOG      ✓ Compiled in 101ms
+[05:29:41.997] Server  LOG      ✓ Compiled in 100ms
+[05:30:25.320] Server  LOG      ○ Compiling /admin ...
+[05:30:37.581] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:30:38.039] Browser INFO    [TronLink] TronWeb is already initiated. TronLink will overwrite the current instance
+[05:30:38.039] Browser INFO    Provider initialised
+[05:30:38.039] Browser INFO    Provider initialised
+[05:30:38.039] Browser INFO    Provider initialised
+[05:30:38.039] Browser INFO    TronLink initiated
+[05:31:33.560] Server  LOG      ✓ Compiled in 207ms
+[05:31:40.357] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:31:40.357] Browser INFO    [TronLink] TronWeb is already initiated. TronLink will overwrite the current instance
+[05:31:40.357] Browser INFO    Provider initialised
+[05:31:40.357] Browser INFO    Provider initialised
+[05:31:40.357] Browser INFO    Provider initialised
+[05:31:40.777] Browser INFO    TronLink initiated
+[05:31:53.116] Server  LOG      ✓ Compiled in 135ms
+[05:32:12.763] Server  LOG      ✓ Compiled in 98ms
+[05:32:17.889] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:32:22.979] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:32:28.296] Server  LOG      ✓ Compiled in 98ms
+[05:34:52.635] Server  LOG      ✓ Compiled in 201ms
+[05:35:00.500] Server  LOG      ✓ Compiled in 77ms
+[05:35:12.715] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:35:12.715] Browser INFO    [TronLink] TronWeb is already initiated. TronLink will overwrite the current instance
+[05:35:12.715] Browser INFO    Provider initialised
+[05:35:12.715] Browser INFO    Provider initialised
+[05:35:12.715] Browser INFO    Provider initialised
+[05:35:12.715] Browser INFO    TronLink initiated
+[05:36:34.671] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:37:02.482] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:37:03.535] Server  LOG      ○ Compiling /admin/users ...
+[05:37:05.379] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:38:23.907] Server  LOG      ✓ Compiled in 203ms
+[05:38:30.475] Server  LOG      ✓ Compiled in 146ms
+[05:38:36.521] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:40:45.072] Server  ERROR    ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[05:40:49.191] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:40:49.191] Browser INFO    [TronLink] TronWeb is already initiated. TronLink will overwrite the current instance
+[05:40:49.191] Browser INFO    Provider initialised
+[05:40:49.191] Browser INFO    Provider initialised
+[05:40:49.191] Browser INFO    Provider initialised
+[05:40:49.232] Server  LOG      ✓ Compiled in 5ms
+[05:40:49.542] Browser INFO    TronLink initiated
+[05:40:49.810] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+Check the render method of `AdminLayout`.
+[05:41:06.460] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[05:41:06.511] Server  LOG      ✓ Compiled in 170ms
+[05:41:07.158] Server  ERROR    ⨯ Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+[05:41:07.175] Browser ERROR   unhandledRejection: Error: No link element found for chunk /_next/static/chunks/%5Broot-of-the-server%5D__a3dce129._.css
+[05:41:10.924] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:41:10.924] Browser INFO    [TronLink] TronWeb is already initiated. TronLink will overwrite the current instance
+[05:41:10.924] Browser INFO    Provider initialised
+[05:41:10.924] Browser INFO    Provider initialised
+[05:41:10.924] Browser INFO    Provider initialised
+[05:41:11.258] Browser INFO    TronLink initiated
+[05:41:11.400] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: undefined. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+Check the render method of `AdminLayout`.
+[05:42:55.815] Server  LOG      ✓ Compiled in 138ms
+[05:42:56.688] Browser ERROR   ./src/app/admin/layout.jsx:4:1
+Parsing ecmascript source code failed
+  2 |
+  3 | /* Force AntD dark sider to look like light */
+> 4 | .ant-layout-sider-dark {
+    | ^
+  5 |   background: #ffffff !important;      /* white background */
+  6 |   color: #111827 !important;           /* dark text */
+  7 | }
+
+Expression expected
+[05:43:02.686] Browser ERROR   ./src/app/admin/layout.jsx:4:1
+Parsing ecmascript source code failed
+  2 |
+  3 | /* Force AntD dark sider to look like light */
+> 4 | .ant-layout-sider-dark {
+    | ^
+  5 |   background: #ffffff !important;      /* white background */
+  6 |   color: #111827 !important;           /* dark text */
+  7 | }
+
+Expression expected
+[05:43:20.533] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[05:43:20.533] Browser ERROR   unhandledRejection: Error: No link element found for chunk /_next/static/chunks/%5Broot-of-the-server%5D__a3dce129._.css
+[05:43:24.457] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:43:25.667] Server  LOG      ✓ Compiled in 939ms
+[05:43:26.687] Browser ERROR   uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization.
+[05:43:26.687] Browser ERROR   uncaughtError: Error: Internal Next.js error: Router action dispatched before initialization.
+[05:45:46.576] Server  LOG      ✓ Compiled in 33ms
+[05:45:48.158] Server  LOG      ✓ Compiled in 26ms
+[05:45:51.363] Server  LOG      ✓ Compiled in 30ms
+[05:45:58.371] Server  LOG      ✓ Compiled in 34ms
+[05:45:59.795] Server  LOG      ✓ Compiled in 50ms
+[05:46:09.598] Server  LOG      ✓ Compiled in 26ms
+[05:46:11.643] Server  LOG      ✓ Compiled in 27ms
+[05:46:14.652] Server  LOG      ✓ Compiled in 29ms
+[05:46:26.168] Server  LOG      ✓ Compiled in 27ms
+[05:46:27.799] Server  LOG      ✓ Compiled in 29ms
+[05:47:14.022] Server  LOG      ✓ Compiled in 411ms
+[05:47:15.851] Server  LOG      ✓ Compiled in 70ms
+[05:48:04.900] Server  LOG      ✓ Compiled in 701ms
+[05:48:12.137] Server  LOG      ✓ Compiled in 140ms
+[05:48:28.103] Server  LOG      ✓ Compiled in 310ms
+[05:48:28.687] Browser ERROR   ./src/components/admin/AdminSidebar.jsx:107:6
+Parsing ecmascript source code failed
+  105 |         )}
+  106 |       </div>
+> 107 |     </aside>
+      |      ^^^^^^^
+  108 |   );
+  109 | }
+  110 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./src/components/admin/AdminSidebar.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/admin/AdminSidebar.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Server Component]
+[05:48:48.857] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:49:05.492] Server  LOG      ✓ Compiled in 749ms
+[05:53:19.297] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/admin/layout.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:53:23.301] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:55:32.353] Server  LOG      ✓ Compiled in 482ms
+[05:55:40.394] Server  LOG      ✓ Compiled in 260ms
+[05:55:49.645] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/admin/layout.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[05:55:52.721] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:55:53.176] Browser INFO    [TronLink] TronWeb is already initiated. TronLink will overwrite the current instance
+[05:55:53.176] Browser INFO    Provider initialised
+[05:55:53.176] Browser INFO    Provider initialised
+[05:55:53.176] Browser INFO    Provider initialised
+[05:55:53.176] Browser INFO    TronLink initiated
+[05:59:10.179] Server  LOG      ✓ Compiled in 384ms
+[05:59:18.146] Server  LOG      ✓ Compiled in 42ms
+[05:59:23.748] Server  LOG      ✓ Compiled in 186ms
+[05:59:24.686] Browser ERROR   ./src/components/admin/AdminSidebar.jsx:63:61
+Parsing ecmascript source code failed
+  61 |               className="p-1 rounded-md hover:bg-gray-50 transition"
+  62 |             >
+> 63 |               {collapsed ? <MenuUnfoldOutlined /> : <MenuFol
+     |                                                             ^
+  64 |
+
+Expected '</', got '<eof>'
+
+Import traces:
+  Client Component Browser:
+    ./src/components/admin/AdminSidebar.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/admin/AdminSidebar.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Server Component]
+[05:59:30.685] Browser ERROR   ./src/components/admin/AdminSidebar.jsx:70:18
+Parsing ecmascript source code failed
+  68 |           <nav className="flex-1 overflow-auto">
+  69 |             <ul className="flex flex-col gap-2">
+> 70 |               {na
+     |                  ^
+  71 |
+
+Expected '</', got '<eof>'
+
+Import traces:
+  Client Component Browser:
+    ./src/components/admin/AdminSidebar.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/admin/AdminSidebar.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Server Component]
+[06:00:22.686] Browser ERROR   ./src/components/admin/AdminSidebar.jsx:70:18
+Parsing ecmascript source code failed
+  68 |           <nav className="flex-1 overflow-auto">
+  69 |             <ul className="flex flex-col gap-2">
+> 70 |               {na
+     |                  ^
+  71 |
+
+Expected '</', got '<eof>'
+
+Import traces:
+  Client Component Browser:
+    ./src/components/admin/AdminSidebar.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/admin/AdminSidebar.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Server Component]
+[06:00:32.685] Browser ERROR   ./src/components/admin/AdminSidebar.jsx:70:18
+Parsing ecmascript source code failed
+  68 |           <nav className="flex-1 overflow-auto">
+  69 |             <ul className="flex flex-col gap-2">
+> 70 |               {na
+     |                  ^
+  71 |
+
+Expected '</', got '<eof>'
+
+Import traces:
+  Client Component Browser:
+    ./src/components/admin/AdminSidebar.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/admin/AdminSidebar.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Server Component]
+[06:01:27.347] Server  LOG      ✓ Compiled in 50ms
+[06:01:38.695] Server  LOG      ✓ Compiled in 41ms
+[06:02:01.216] Server  LOG      ✓ Compiled in 453ms
+[06:02:01.331] Server  LOG      ✓ Compiled in 0ms
+[06:02:04.527] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:02:04.527] Browser INFO    [TronLink] TronWeb is already initiated. TronLink will overwrite the current instance
+[06:02:04.527] Browser INFO    Provider initialised
+[06:02:04.527] Browser INFO    Provider initialised
+[06:02:04.527] Browser INFO    Provider initialised
+[06:02:04.853] Browser INFO    TronLink initiated
+[06:02:14.414] Server  LOG      ✓ Compiled in 44ms
+[06:02:14.679] Browser ERROR   uncaughtError: ReferenceError: collapsed is not defined
+[06:02:21.630] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:02:21.956] Server  ERROR    ⨯ ReferenceError: collapsed is not defined
+[06:02:21.978] Server  LOG      ✓ Compiled in 311ms
+[06:02:21.984] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:02:25.005] Server  LOG      ✓ Compiled in 319ms
+[06:02:26.306] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:02:26.306] Browser INFO    [TronLink] TronWeb is already initiated. TronLink will overwrite the current instance
+[06:02:26.306] Browser INFO    Provider initialised
+[06:02:26.306] Browser INFO    Provider initialised
+[06:02:26.306] Browser INFO    Provider initialised
+[06:02:26.639] Browser INFO    TronLink initiated
+[06:02:26.639] Browser ERROR   uncaughtError: ReferenceError: collapsed is not defined
+[06:02:45.378] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:02:45.536] Server  LOG      ✓ Compiled in 37ms
+[06:02:45.630] Server  ERROR    ⨯ ReferenceError: collapsed is not defined
+[06:02:50.112] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:02:50.112] Browser INFO    [TronLink] TronWeb is already initiated. TronLink will overwrite the current instance
+[06:02:50.112] Browser INFO    Provider initialised
+[06:02:50.112] Browser INFO    Provider initialised
+[06:02:50.112] Browser INFO    Provider initialised
+[06:02:50.112] Browser INFO    TronLink initiated
+[06:02:50.357] Browser ERROR   uncaughtError: ReferenceError: collapsed is not defined
+[06:02:54.949] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:02:55.020] Server  ERROR    ⨯ ReferenceError: collapsed is not defined
+[06:02:55.051] Server  LOG      ✓ Compiled in 41ms
+[06:02:58.207] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:02:58.691] Browser ERROR   uncaughtError: ReferenceError: collapsed is not defined
+[06:03:03.495] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:03:03.628] Server  LOG      ✓ Compiled in 54ms
+[06:03:03.702] Server  ERROR    ⨯ ReferenceError: collapsed is not defined
+[06:03:06.663] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:03:07.561] Browser INFO    [TronLink] TronWeb is already initiated. TronLink will overwrite the current instance
+[06:03:07.561] Browser INFO    Provider initialised
+[06:03:07.561] Browser INFO    Provider initialised
+[06:03:07.561] Browser INFO    Provider initialised
+[06:03:07.561] Browser INFO    TronLink initiated
+[06:03:07.734] Browser ERROR   uncaughtError: ReferenceError: collapsed is not defined
+[06:03:26.800] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:03:26.922] Server  LOG      ✓ Compiled in 77ms
+[06:03:27.002] Server  ERROR    ⨯ ReferenceError: useState is not defined
+[06:03:30.479] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:03:30.479] Browser INFO    [TronLink] TronWeb is already initiated. TronLink will overwrite the current instance
+[06:03:30.479] Browser INFO    Provider initialised
+[06:03:30.479] Browser INFO    Provider initialised
+[06:03:30.479] Browser INFO    Provider initialised
+[06:03:30.479] Browser INFO    TronLink initiated
+[06:03:30.870] Browser ERROR   uncaughtError: ReferenceError: useState is not defined
+[06:03:35.367] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:03:36.152] Server  LOG      ✓ Compiled in 27ms
+[06:03:36.227] Server  ERROR    ⨯ ReferenceError: collapsed is not defined
+[06:03:39.422] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:03:40.688] Browser ERROR   uncaughtError: ReferenceError: collapsed is not defined
+[06:03:40.755] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:03:40.768] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:03:41.072] Server  LOG      ✓ Compiled in 250ms
+[06:03:43.689] Server  LOG      ✓ Compiled in 206ms
+[06:03:44.978] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:03:44.978] Browser INFO    [TronLink] TronWeb is already initiated. TronLink will overwrite the current instance
+[06:03:44.978] Browser INFO    Provider initialised
+[06:03:44.978] Browser INFO    Provider initialised
+[06:03:44.978] Browser INFO    Provider initialised
+[06:03:45.136] Browser INFO    TronLink initiated
+[06:03:51.584] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:03:51.584] Browser INFO    [TronLink] TronWeb is already initiated. TronLink will overwrite the current instance
+[06:03:51.584] Browser INFO    Provider initialised
+[06:03:51.584] Browser INFO    Provider initialised
+[06:03:51.584] Browser INFO    Provider initialised
+[06:03:51.801] Browser INFO    TronLink initiated
+[06:59:04.275] Server  LOG      ✓ Compiled in 423ms
+[06:59:55.997] Server  LOG      ✓ Compiled in 42ms
+[06:59:57.946] Server  LOG      ✓ Compiled in 69ms
+[07:00:06.239] Server  LOG      ✓ Compiled in 41ms
+[07:00:08.431] Server  LOG      ✓ Compiled in 137ms
+[07:00:13.040] Server  LOG      ✓ Compiled in 39ms
+[07:00:14.326] Server  LOG      ✓ Compiled in 31ms
+[07:00:21.795] Server  LOG      ✓ Compiled in 29ms
+[07:00:23.822] Server  LOG      ✓ Compiled in 75ms
+[07:00:25.790] Server  LOG      ✓ Compiled in 31ms
+[07:00:32.409] Server  LOG      ✓ Compiled in 29ms
+[07:00:39.785] Server  LOG      ✓ Compiled in 25ms
+[07:00:44.183] Server  LOG      ✓ Compiled in 101ms
+[07:00:53.838] Server  LOG      ✓ Compiled in 81ms
+[07:01:04.785] Server  LOG      ✓ Compiled in 27ms
+[07:01:08.767] Server  LOG      ✓ Compiled in 24ms
+[07:01:10.782] Server  LOG      ✓ Compiled in 26ms
+[07:01:20.136] Server  LOG      ✓ Compiled in 87ms
+[07:01:22.785] Server  LOG      ✓ Compiled in 27ms
+[07:01:26.746] Server  LOG      ✓ Compiled in 53ms
+[07:01:51.179] Server  LOG      ✓ Compiled in 246ms
+[07:01:51.703] Browser ERROR   ./src/app/admin/users/page.jsx:18:1
+Ecmascript file had an error
+  16 |
+  17 | // src/app/admin/page.jsx
+> 18 | "use client";
+     | ^^^^^^^^^^^^^
+  19 |
+  20 | import React from "react";
+  21 |
+
+The "use client" directive must be placed before other expressions. Move it to the top of the file to resolve this issue.
+
+Import traces:
+  Client Component Browser:
+    ./src/app/admin/users/page.jsx [Client Component Browser]
+    ./src/app/admin/users/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/admin/users/page.jsx [Client Component SSR]
+    ./src/app/admin/users/page.jsx [Server Component]
+[07:01:51.703] Browser ERROR   ./src/app/admin/users/page.jsx:20:8
+Ecmascript file had an error
+  18 | "use client";
+  19 |
+> 20 | import React from "react";
+     |        ^^^^^
+  21 |
+  22 | const sampleData = [
+  23 |   { key: 1, name: "Amit Kumar", email: "amit1@example.com", phone: "9998887771", createdAt: "2025-12-02" },
+
+the name `React` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/app/admin/users/page.jsx [Client Component Browser]
+    ./src/app/admin/users/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/admin/users/page.jsx [Client Component SSR]
+    ./src/app/admin/users/page.jsx [Server Component]
+[07:01:51.703] Browser ERROR   ./src/app/admin/users/page.jsx:27:1
+Ecmascript file had an error
+  25 | ];
+  26 |
+> 27 | export default function AdminPage() {
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 28 |   return (
+     | ^^^^^^^^^^
+> 29 |     <div className="space-y-4">
+     | ^^^^^^^^^^
+> 30 |       {/* metrics (tighter spacing) */}
+     | ^^^^^^^^^^
+> 31 |       <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+     | ^^^^^^^^^^
+> 32 |         <div className="bg-white rounded-xl p-4 shadow-sm border border-gray-100">
+     | ^^^^^^^^^^
+> 33 |           <div className="text-xs text-gray-500">Total Users</div>
+     | ^^^^^^^^^^
+> 34 |           <div className="text-xl font-extrabold mt-2">8,700</div>
+     | ^^^^^^^^^^
+> 35 |         </div>
+     | ^^^^^^^^^^
+> 36 |
+     | ^^^^^^^^^^
+> 37 |         <div className="bg-white rounded-xl p-4 shadow-sm border border-gray-100">
+     | ^^^^^^^^^^
+> 38 |           <div className="text-xs text-gray-500">Active Communities</div>
+     | ^^^^^^^^^^
+> 39 |           <div className="text-xl font-extrabold mt-2">1,200</div>
+     | ^^^^^^^^^^
+> 40 |         </div>
+     | ^^^^^^^^^^
+> 41 |
+     | ^^^^^^^^^^
+> 42 |         <div className="bg-white rounded-xl p-4 shadow-sm border border-gray-100">
+     | ^^^^^^^^^^
+> 43 |           <div className="text-xs text-gray-500">Orders Today</div>
+     | ^^^^^^^^^^
+> 44 |           <div className="text-xl font-extrabold mt-2">320</div>
+     | ^^^^^^^^^^
+> 45 |         </div>
+     | ^^^^^^^^^^
+> 46 |       </div>
+     | ^^^^^^^^^^
+> 47 |
+     | ^^^^^^^^^^
+> 48 |       {/* recent users - compact */}
+     | ^^^^^^^^^^
+> 49 |       <div className="bg-white rounded-xl p-4 shadow-sm border border-gray-100">
+     | ^^^^^^^^^^
+> 50 |         <div className="flex items-center justify-between mb-3">
+     | ^^^^^^^^^^
+> 51 |           <h3 className="text-base font-semibold">Recent Users</h3>
+     | ^^^^^^^^^^
+> 52 |           <div className="text-sm text-gray-500">Showing latest signups</div>
+     | ^^^^^^^^^^
+> 53 |         </div>
+     | ^^^^^^^^^^
+> 54 |
+     | ^^^^^^^^^^
+> 55 |         <div className="overflow-x-auto rounded-md">
+     | ^^^^^^^^^^
+> 56 |           <table className="w-full text-left border-collapse">
+     | ^^^^^^^^^^
+> 57 |             <thead className="bg-gray-50">
+     | ^^^^^^^^^^
+> 58 |               <tr>
+     | ^^^^^^^^^^
+> 59 |                 <th className="py-2 px-4 text-xs font-medium text-gray-600">Name</th>
+     | ^^^^^^^^^^
+> 60 |                 <th className="py-2 px-4 text-xs font-medium text-gray-600">Email</th>
+     | ^^^^^^^^^^
+> 61 |                 <th className="py-2 px-4 text-xs font-medium text-gray-600">Phone</th>
+     | ^^^^^^^^^^
+> 62 |                 <th className="py-2 px-4 text-xs font-medium text-gray-600">Created</th>
+     | ^^^^^^^^^^
+> 63 |               </tr>
+     | ^^^^^^^^^^
+> 64 |             </thead>
+     | ^^^^^^^^^^
+> 65 |
+     | ^^^^^^^^^^
+> 66 |             <tbody className=" border-t border-gray-300 divide-y divide-gray-200">
+     | ^^^^^^^^^^
+> 67 |               {sampleData.map((row) => (
+     | ^^^^^^^^^^
+> 68 |                 <tr key={row.key} className="">
+     | ^^^^^^^^^^
+> 69 |                   <td className="py-2 px-4 text-sm">{row.name}</td>
+     | ^^^^^^^^^^
+> 70 |                   <td className="py-2 px-4 text-sm text-gray-700">{row.email}</td>
+     | ^^^^^^^^^^
+> 71 |                   <td className="py-2 px-4 text-sm">{row.phone}</td>
+     | ^^^^^^^^^^
+> 72 |                   <td className="py-2 px-4 text-sm">{row.createdAt}</td>
+     | ^^^^^^^^^^
+> 73 |                 </tr>
+     | ^^^^^^^^^^
+> 74 |               ))}
+     | ^^^^^^^^^^
+> 75 |             </tbody>
+     | ^^^^^^^^^^
+> 76 |           </table>
+     | ^^^^^^^^^^
+> 77 |         </div>
+     | ^^^^^^^^^^
+> 78 |
+     | ^^^^^^^^^^
+> 79 |         <div className="mt-4 flex items-center justify-end">
+     | ^^^^^^^^^^
+> 80 |           <div className="text-sm text-gray-500">1</div>
+     | ^^^^^^^^^^
+> 81 |         </div>
+     | ^^^^^^^^^^
+> 82 |       </div>
+     | ^^^^^^^^^^
+> 83 |     </div>
+     | ^^^^^^^^^^
+> 84 |   );
+     | ^^^^^^^^^^
+> 85 | }
+     | ^^
+  86 |
+
+the name `default` is exported multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/app/admin/users/page.jsx [Client Component Browser]
+    ./src/app/admin/users/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/admin/users/page.jsx [Client Component SSR]
+    ./src/app/admin/users/page.jsx [Server Component]
+[07:01:54.970] Server  LOG      ✓ Compiled in 40ms
+[07:01:55.704] Browser ERROR   ./src/app/admin/users/page.jsx:18:1
+Ecmascript file had an error
+  16 |
+  17 | // src/app/admin/page.jsx
+> 18 | "use client";
+     | ^^^^^^^^^^^^^
+  19 |
+  20 | import React from "react";
+  21 |
+
+The "use client" directive must be placed before other expressions. Move it to the top of the file to resolve this issue.
+
+Import traces:
+  Client Component Browser:
+    ./src/app/admin/users/page.jsx [Client Component Browser]
+    ./src/app/admin/users/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/admin/users/page.jsx [Client Component SSR]
+    ./src/app/admin/users/page.jsx [Server Component]
+[07:01:55.704] Browser ERROR   ./src/app/admin/users/page.jsx:20:8
+Ecmascript file had an error
+  18 | "use client";
+  19 |
+> 20 | import React from "react";
+     |        ^^^^^
+  21 |
+  22 | const sampleData = [
+  23 |   { key: 1, name: "Amit Kumar", email: "amit1@example.com", phone: "9998887771", createdAt: "2025-12-02" },
+
+the name `React` is defined multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/app/admin/users/page.jsx [Client Component Browser]
+    ./src/app/admin/users/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/admin/users/page.jsx [Client Component SSR]
+    ./src/app/admin/users/page.jsx [Server Component]
+[07:01:55.704] Browser ERROR   ./src/app/admin/users/page.jsx:27:1
+Ecmascript file had an error
+  25 | ];
+  26 |
+> 27 | export default function AdminPage() {
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 28 |   return (
+     | ^^^^^^^^^^
+> 29 |     <div className="space-y-4">
+     | ^^^^^^^^^^
+> 30 |       {/* metrics (tighter spacing) */}
+     | ^^^^^^^^^^
+> 31 |       <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+     | ^^^^^^^^^^
+> 32 |         <div className="bg-white rounded-xl p-4 shadow-sm border border-gray-100">
+     | ^^^^^^^^^^
+> 33 |           <div className="text-xs text-gray-500">Total Users</div>
+     | ^^^^^^^^^^
+> 34 |           <div className="text-xl font-extrabold mt-2">8,700</div>
+     | ^^^^^^^^^^
+> 35 |         </div>
+     | ^^^^^^^^^^
+> 36 |
+     | ^^^^^^^^^^
+> 37 |         <div className="bg-white rounded-xl p-4 shadow-sm border border-gray-100">
+     | ^^^^^^^^^^
+> 38 |           <div className="text-xs text-gray-500">Active Communities</div>
+     | ^^^^^^^^^^
+> 39 |           <div className="text-xl font-extrabold mt-2">1,200</div>
+     | ^^^^^^^^^^
+> 40 |         </div>
+     | ^^^^^^^^^^
+> 41 |
+     | ^^^^^^^^^^
+> 42 |         <div className="bg-white rounded-xl p-4 shadow-sm border border-gray-100">
+     | ^^^^^^^^^^
+> 43 |           <div className="text-xs text-gray-500">Orders Today</div>
+     | ^^^^^^^^^^
+> 44 |           <div className="text-xl font-extrabold mt-2">320</div>
+     | ^^^^^^^^^^
+> 45 |         </div>
+     | ^^^^^^^^^^
+> 46 |       </div>
+     | ^^^^^^^^^^
+> 47 |
+     | ^^^^^^^^^^
+> 48 |       {/* recent users - compact */}
+     | ^^^^^^^^^^
+> 49 |       <div className="bg-white rounded-xl p-4 shadow-sm border border-gray-100">
+     | ^^^^^^^^^^
+> 50 |         <div className="flex items-center justify-between mb-3">
+     | ^^^^^^^^^^
+> 51 |           <h3 className="text-base font-semibold">Recent Users</h3>
+     | ^^^^^^^^^^
+> 52 |           <div className="text-sm text-gray-500">Showing latest signups</div>
+     | ^^^^^^^^^^
+> 53 |         </div>
+     | ^^^^^^^^^^
+> 54 |
+     | ^^^^^^^^^^
+> 55 |         <div className="overflow-x-auto rounded-md">
+     | ^^^^^^^^^^
+> 56 |           <table className="w-full text-left border-collapse">
+     | ^^^^^^^^^^
+> 57 |             <thead className="bg-gray-50">
+     | ^^^^^^^^^^
+> 58 |               <tr>
+     | ^^^^^^^^^^
+> 59 |                 <th className="py-2 px-4 text-xs font-medium text-gray-600">Name</th>
+     | ^^^^^^^^^^
+> 60 |                 <th className="py-2 px-4 text-xs font-medium text-gray-600">Email</th>
+     | ^^^^^^^^^^
+> 61 |                 <th className="py-2 px-4 text-xs font-medium text-gray-600">Phone</th>
+     | ^^^^^^^^^^
+> 62 |                 <th className="py-2 px-4 text-xs font-medium text-gray-600">Created</th>
+     | ^^^^^^^^^^
+> 63 |               </tr>
+     | ^^^^^^^^^^
+> 64 |             </thead>
+     | ^^^^^^^^^^
+> 65 |
+     | ^^^^^^^^^^
+> 66 |             <tbody className=" border-t border-gray-300 divide-y divide-gray-200">
+     | ^^^^^^^^^^
+> 67 |               {sampleData.map((row) => (
+     | ^^^^^^^^^^
+> 68 |                 <tr key={row.key} className="">
+     | ^^^^^^^^^^
+> 69 |                   <td className="py-2 px-4 text-sm">{row.name}</td>
+     | ^^^^^^^^^^
+> 70 |                   <td className="py-2 px-4 text-sm text-gray-700">{row.email}</td>
+     | ^^^^^^^^^^
+> 71 |                   <td className="py-2 px-4 text-sm">{row.phone}</td>
+     | ^^^^^^^^^^
+> 72 |                   <td className="py-2 px-4 text-sm">{row.createdAt}</td>
+     | ^^^^^^^^^^
+> 73 |                 </tr>
+     | ^^^^^^^^^^
+> 74 |               ))}
+     | ^^^^^^^^^^
+> 75 |             </tbody>
+     | ^^^^^^^^^^
+> 76 |           </table>
+     | ^^^^^^^^^^
+> 77 |         </div>
+     | ^^^^^^^^^^
+> 78 |
+     | ^^^^^^^^^^
+> 79 |         <div className="mt-4 flex items-center justify-end">
+     | ^^^^^^^^^^
+> 80 |           <div className="text-sm text-gray-500">1</div>
+     | ^^^^^^^^^^
+> 81 |         </div>
+     | ^^^^^^^^^^
+> 82 |       </div>
+     | ^^^^^^^^^^
+> 83 |     </div>
+     | ^^^^^^^^^^
+> 84 |   );
+     | ^^^^^^^^^^
+> 85 | }
+     | ^^
+  86 |
+
+the name `default` is exported multiple times
+
+Import traces:
+  Client Component Browser:
+    ./src/app/admin/users/page.jsx [Client Component Browser]
+    ./src/app/admin/users/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/admin/users/page.jsx [Client Component SSR]
+    ./src/app/admin/users/page.jsx [Server Component]
+[07:01:58.491] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/admin/users/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[07:01:58.496] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/admin/users/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[07:01:58.895] Server  LOG      ✓ Compiled in 38ms
+[07:02:02.740] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:02:11.511] Server  LOG      ✓ Compiled in 30ms
+[07:02:23.807] Server  LOG      ✓ Compiled in 26ms
+[07:02:27.158] Server  LOG      ✓ Compiled in 52ms
+[07:02:37.448] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:02:37.844] Browser INFO    [TronLink] TronWeb is already initiated. TronLink will overwrite the current instance
+[07:02:37.844] Browser INFO    Provider initialised
+[07:02:37.844] Browser INFO    Provider initialised
+[07:02:37.844] Browser INFO    Provider initialised
+[07:02:37.844] Browser INFO    TronLink initiated
+[07:02:52.733] Server  ERROR    ⨯ Error: The default export is not a React Component in "/admin/orders/page"
+[07:02:53.251] Server  ERROR    ⨯ Error: The default export is not a React Component in "/admin/orders/page"
+[07:02:53.966] Server  ERROR    ⨯ Error: The default export is not a React Component in "/admin/orders/page"
+[07:02:54.386] Server  ERROR    ⨯ Error: The default export is not a React Component in "/admin/orders/page"
+[07:02:54.388] Server  LOG      ✓ Compiled in 0ms
+[07:02:56.165] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:02:58.713] Server  LOG      ✓ Compiled in 134ms
+[07:10:42.786] Server  LOG      ✓ Compiled in 790ms
+[07:11:08.998] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:11:19.290] Server  LOG      ✓ Compiled in 91ms
+[07:11:19.703] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. orders
+[07:11:23.608] Server  LOG      ✓ Compiled in 45ms
+[07:11:25.054] Server  LOG      ✓ Compiled in 40ms
+[07:11:30.064] Server  LOG      ✓ Compiled in 31ms
+[07:11:33.423] Server  LOG      ✓ Compiled in 48ms
+[07:11:39.253] Server  LOG      ✓ Compiled in 60ms
+[07:11:40.969] Server  ERROR    ⨯ ReferenceError: Outlined is not defined
+[07:11:42.264] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:11:42.717] Browser ERROR   uncaughtError: ReferenceError: Outlined is not defined
+[07:11:42.717] Browser ERROR   unhandledRejection: TypeError: Cannot assign to read only property 'Component' of object '#<Object>'
+[07:11:43.969] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[07:11:43.969] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/components/admin/AdminSidebar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[07:11:43.971] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[07:11:44.175] Server  LOG      ✓ Compiled in 34ms
+[07:11:44.810] Server  ERROR    ⨯ ReferenceError: PersonOutlined is not defined
+[07:11:46.525] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:11:46.704] Browser ERROR   uncaughtError: ReferenceError: PersonOutlined is not defined
+[07:11:46.704] Browser ERROR   unhandledRejection: TypeError: Cannot assign to read only property 'Component' of object '#<Object>'
+[07:12:06.874] Server  LOG      ✓ Compiled in 11s
+[07:12:07.702] Browser ERROR   ./src/components/admin/AdminSidebar.jsx:6:1
+Export PersonOutlined doesn't exist in target module
+   4 | import React, { useState, useEffect } from "react";
+   5 | import Link from "next/link";
+>  6 | import {
+     | ^^^^^^^^
+>  7 |   DashboardOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+>  8 |   UsergroupAddOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+>  9 |   ShoppingOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 10 |   FileSearchOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 11 |   SettingOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 12 |   MenuFoldOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 13 |   MenuUnfoldOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 14 |   PersonOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 15 | } from "@ant-design/icons";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  16 | import { usePathname } from "next/navigation";
+  17 |
+  18 | const nav = [
+
+The export PersonOutlined was not found in module [project]/node_modules/@ant-design/icons/es/index.js [app-client] (ecmascript).
+Did you mean to import PhoneOutlined?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./src/components/admin/AdminSidebar.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/admin/AdminSidebar.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Server Component]
+[07:12:07.703] Browser ERROR   ./src/components/admin/AdminSidebar.jsx:6:1
+Export PersonOutlined doesn't exist in target module
+   4 | import React, { useState, useEffect } from "react";
+   5 | import Link from "next/link";
+>  6 | import {
+     | ^^^^^^^^
+>  7 |   DashboardOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+>  8 |   UsergroupAddOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+>  9 |   ShoppingOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 10 |   FileSearchOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 11 |   SettingOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 12 |   MenuFoldOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 13 |   MenuUnfoldOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 14 |   PersonOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 15 | } from "@ant-design/icons";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  16 | import { usePathname } from "next/navigation";
+  17 |
+  18 | const nav = [
+
+The export PersonOutlined was not found in module [project]/node_modules/@ant-design/icons/es/index.js [app-ssr] (ecmascript).
+Did you mean to import PhoneOutlined?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./src/components/admin/AdminSidebar.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/admin/AdminSidebar.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Server Component]
+[07:14:46.585] Server  LOG      ✓ Compiled in 92ms
+[07:14:46.702] Browser ERROR   ./src/components/admin/AdminSidebar.jsx:14:3
+Parsing ecmascript source code failed
+  12 |   MenuFoldOutlined,
+  13 |   MenuUnfoldOutlined,
+> 14 |   <MediumOutlined />,
+     |   ^
+  15 | } from "@ant-design/icons";
+  16 | import { usePathname } from "next/navigation";
+  17 |
+
+Unexpected token `<`. Expected identifier or string
+
+Import traces:
+  Client Component Browser:
+    ./src/components/admin/AdminSidebar.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/admin/AdminSidebar.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Server Component]
+[07:14:46.702] Browser ERROR   ./src/components/admin/AdminSidebar.jsx:6:1
+Export PersonOutlined doesn't exist in target module
+   4 | import React, { useState, useEffect } from "react";
+   5 | import Link from "next/link";
+>  6 | import {
+     | ^^^^^^^^
+>  7 |   DashboardOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+>  8 |   UsergroupAddOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+>  9 |   ShoppingOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 10 |   FileSearchOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 11 |   SettingOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 12 |   MenuFoldOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 13 |   MenuUnfoldOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 14 |   <MediumOutlined />,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 15 | } from "@ant-design/icons";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^
+  16 | import { usePathname } from "next/navigation";
+  17 |
+  18 | const nav = [
+
+The export PersonOutlined was not found in module [project]/node_modules/@ant-design/icons/es/index.js [app-client] (ecmascript).
+Did you mean to import PhoneOutlined?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./src/components/admin/AdminSidebar.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/admin/AdminSidebar.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Server Component]
+[07:14:46.703] Browser ERROR   ./src/components/admin/AdminSidebar.jsx:6:1
+Export PersonOutlined doesn't exist in target module
+   4 | import React, { useState, useEffect } from "react";
+   5 | import Link from "next/link";
+>  6 | import {
+     | ^^^^^^^^
+>  7 |   DashboardOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+>  8 |   UsergroupAddOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+>  9 |   ShoppingOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 10 |   FileSearchOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 11 |   SettingOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 12 |   MenuFoldOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 13 |   MenuUnfoldOutlined,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 14 |   <MediumOutlined />,
+     | ^^^^^^^^^^^^^^^^^^^^
+> 15 | } from "@ant-design/icons";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^
+  16 | import { usePathname } from "next/navigation";
+  17 |
+  18 | const nav = [
+
+The export PersonOutlined was not found in module [project]/node_modules/@ant-design/icons/es/index.js [app-ssr] (ecmascript).
+Did you mean to import PhoneOutlined?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./src/components/admin/AdminSidebar.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/admin/AdminSidebar.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Server Component]
+[07:14:49.472] Server  LOG      ✓ Compiled in 216ms
+[07:14:50.750] Server  ERROR    ⨯ ReferenceError: PersonOutlined is not defined
+[07:14:50.785] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[07:14:50.785] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/components/admin/AdminSidebar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[07:14:50.785] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[07:14:51.196] Server  ERROR    ⨯ ReferenceError: PersonOutlined is not defined
+[07:14:54.189] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:14:54.709] Browser ERROR   unhandledRejection: TypeError: Cannot assign to read only property 'Component' of object '#<Object>'
+[07:14:54.709] Browser ERROR   uncaughtError: ReferenceError: PersonOutlined is not defined
+[07:14:55.373] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[07:14:55.573] Server  LOG      ✓ Compiled in 130ms
+[07:14:55.698] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[07:14:55.698] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/components/admin/AdminSidebar.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[07:14:55.699] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[07:14:58.233] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:19:25.256] Server  LOG      ✓ Compiled in 100ms
+[07:19:28.618] Server  LOG      ✓ Compiled in 103ms
+[07:19:31.295] Server  LOG      ✓ Compiled in 111ms
+[07:19:38.539] Server  LOG      ✓ Compiled in 86ms
+[07:19:42.095] Server  LOG      ✓ Compiled in 68ms
+[07:19:57.788] Server  LOG      ✓ Compiled in 30ms
+[07:20:14.597] Server  LOG      ✓ Compiled in 263ms
+[07:21:00.464] Server  LOG      ✓ Compiled in 48ms
+[07:21:03.205] Server  LOG      ✓ Compiled in 31ms
+[07:21:56.201] Server  LOG      ✓ Compiled in 50ms
+[07:21:58.084] Server  LOG      ✓ Compiled in 36ms
+[07:22:08.670] Server  LOG      ✓ Compiled in 33ms
+[07:22:13.820] Server  LOG      ✓ Compiled in 30ms
+[07:22:45.178] Server  LOG      ✓ Compiled in 47ms
+[07:22:45.702] Browser ERROR   Encountered two children with the same key, `%s`. Keys should be unique so that components maintain their identity across updates. Non-unique keys may cause children to be duplicated and/or omitted — the behavior is unsupported and could change in a future version. users
+[07:22:48.702] Server  LOG      ✓ Compiled in 28ms
+[07:22:50.604] Server  LOG      ✓ Compiled in 29ms
+[07:22:52.430] Server  LOG      ✓ Compiled in 33ms
+[07:23:43.381] Server  LOG      ✓ Compiled in 83ms
+[07:23:46.697] Server  LOG      ✓ Compiled in 200ms
+[07:23:51.410] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:23:53.519] Server  LOG      ✓ Compiled in 40ms
+[07:23:56.368] Server  LOG      ✓ Compiled in 59ms
+[07:24:31.356] Server  LOG      ✓ Compiled in 54ms
+[07:24:31.702] Browser ERROR   ./src/components/admin/AdminSidebar.jsx:16:3
+Parsing ecmascript source code failed
+  14 |   MediumOutlined,
+  15 |   ProductOutlined
+> 16 |   CodeSandboxOutlined
+     |   ^^^^^^^^^^^^^^^^^^^
+  17 | } from "@ant-design/icons";
+  18 | import { usePathname } from "next/navigation";
+  19 |
+
+Expected ',', got 'CodeSandboxOutlined'
+
+Import traces:
+  Client Component Browser:
+    ./src/components/admin/AdminSidebar.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Client Component Browser]
+    ./src/app/admin/layout.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/admin/AdminSidebar.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Client Component SSR]
+    ./src/app/admin/layout.jsx [Server Component]
+[07:24:39.015] Server  LOG      ✓ Compiled in 164ms
+[07:24:41.559] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:24:53.931] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:24:54.150] Browser INFO    [TronLink] TronWeb is already initiated. TronLink will overwrite the current instance
+[07:24:54.150] Browser INFO    Provider initialised
+[07:24:54.150] Browser INFO    Provider initialised
+[07:24:54.150] Browser INFO    Provider initialised
+[07:24:54.150] Browser INFO    TronLink initiated
+[07:24:56.908] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:24:57.249] Browser INFO    [TronLink] TronWeb is already initiated. TronLink will overwrite the current instance
+[07:24:57.249] Browser INFO    Provider initialised
+[07:24:57.249] Browser INFO    Provider initialised
+[07:24:57.249] Browser INFO    Provider initialised
+[07:24:57.249] Browser INFO    TronLink initiated
+[07:31:02.478] Server  LOG      ✓ Compiled in 142ms
+[07:31:13.347] Server  LOG      ✓ Compiled in 94ms
+[07:32:46.067] Server  LOG      ✓ Compiled in 52ms
+[07:32:50.913] Server  LOG      ✓ Compiled in 34ms
+[07:32:53.947] Server  LOG      ✓ Compiled in 38ms
+[07:33:04.304] Server  LOG      ✓ Compiled in 62ms
+[07:33:11.205] Server  LOG      ✓ Compiled in 41ms
+[07:33:13.350] Server  LOG      ✓ Compiled in 65ms
+[07:33:41.050] Server  LOG      ✓ Compiled in 43ms
+[07:33:46.785] Server  LOG      ✓ Compiled in 41ms
+[07:33:49.079] Server  LOG      ✓ Compiled in 50ms
+[07:34:01.301] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[07:34:01.656] Browser INFO    [TronLink] TronWeb is already initiated. TronLink will overwrite the current instance
+[07:34:01.656] Browser INFO    Provider initialised
+[07:34:01.656] Browser INFO    Provider initialised
+[07:34:01.656] Browser INFO    Provider initialised
+[07:34:01.656] Browser INFO    TronLink initiated
+[07:34:18.649] Server  LOG      ✓ Compiled in 33ms
+[07:34:21.209] Server  LOG      ✓ Compiled in 38ms
+[07:34:57.020] Server  LOG      ✓ Compiled in 39ms
+[07:35:02.012] Server  LOG      ✓ Compiled in 35ms
+[07:35:05.785] Server  LOG      ✓ Compiled in 29ms
+[07:35:09.247] Server  LOG      ✓ Compiled in 38ms
+[07:35:13.072] Server  LOG      ✓ Compiled in 51ms
+[07:35:16.985] Server  LOG      ✓ Compiled in 31ms
+[07:35:29.679] Server  LOG      ✓ Compiled in 35ms
+[07:35:32.946] Server  LOG      ✓ Compiled in 31ms

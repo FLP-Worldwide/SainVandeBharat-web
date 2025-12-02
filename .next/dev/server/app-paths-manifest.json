@@ -1,5 +1,13 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
+  "/admin/categories/page": "app/admin/categories/page.js",
+  "/admin/matrimonial/page": "app/admin/matrimonial/page.js",
+  "/admin/orders/page": "app/admin/orders/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/products/page": "app/admin/products/page.js",
+  "/admin/reports/page": "app/admin/reports/page.js",
+  "/admin/settings/page": "app/admin/settings/page.js",
+  "/admin/users/page": "app/admin/users/page.js",
   "/join/page": "app/join/page.js",
   "/page": "app/page.js"
 }
