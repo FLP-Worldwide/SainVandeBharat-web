@@ -10646,3 +10646,11 @@ Import traces:
 [07:35:16.985] Server  LOG      ✓ Compiled in 31ms
 [07:35:29.679] Server  LOG      ✓ Compiled in 35ms
 [07:35:32.946] Server  LOG      ✓ Compiled in 31ms
+[08:22:22.343] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:22:23.140] Browser INFO    [TronLink] TronWeb is already initiated. TronLink will overwrite the current instance
+[08:22:23.140] Browser INFO    Provider initialised
+[08:22:23.140] Browser INFO    Provider initialised
+[08:22:23.140] Browser INFO    Provider initialised
+[08:22:23.140] Browser INFO    TronLink initiated
+[08:23:47.315] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[08:24:50.682] Server  LOG      ✓ Compiled in 429ms
