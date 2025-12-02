@@ -9622,3 +9622,19 @@ Import traces:
 [03:26:56.688] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
 [03:27:03.731] Server  LOG      ✓ Compiled in 55ms
 [03:27:08.140] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:35:25.056] Server  LOG        Reload env: .env
+[04:36:11.835] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:37:02.787] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:37:05.807] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:37:05.807] Browser INFO    [TronLink] TronWeb is already initiated. TronLink will overwrite the current instance
+[04:37:05.807] Browser INFO    Provider initialised
+[04:37:05.807] Browser INFO    Provider initialised
+[04:37:05.807] Browser INFO    Provider initialised
+[04:37:05.960] Browser INFO    TronLink initiated
+[05:20:59.801] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:25:02.063] Server  LOG      ✓ Compiled in 1639ms
+[05:25:22.706] Server  LOG      ✓ Compiled in 89ms
+[05:25:39.011] Server  LOG      ✓ Compiled in 124ms
+[05:25:45.660] Server  LOG      ✓ Compiled in 175ms
+[05:26:11.601] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:26:20.841] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

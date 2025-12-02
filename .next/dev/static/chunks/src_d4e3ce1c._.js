@@ -187,6 +187,83 @@ function FooterPage() {
             },
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                    className: "max-w-7xl mx-auto px-6 pb-6",
+                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: "border border-transparent bg-white/70 dark:bg-zinc-900/70 rounded-xl p-5 flex flex-col md:flex-row items-center justify-between gap-6 shadow-sm",
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                        className: "text-lg font-semibold text-zinc-800 dark:text-zinc-200",
+                                        children: "Download Our App"
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/components/Footer.jsx",
+                                        lineNumber: 21,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                        className: "text-sm text-zinc-600 dark:text-zinc-400 mt-1",
+                                        children: "Stay connected with your community anytime, anywhere."
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/components/Footer.jsx",
+                                        lineNumber: 24,
+                                        columnNumber: 15
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/src/components/Footer.jsx",
+                                lineNumber: 20,
+                                columnNumber: 13
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "flex items-center gap-6",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                        href: "#",
+                                        className: "block overflow-hidden rounded-lg border border-zinc-300 dark:border-zinc-700 hover:shadow-md transition",
+                                        style: {
+                                            maxWidth: "150px"
+                                        },
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                                            src: "https://www.sammobile.com/wp-content/uploads/2023/12/Google-Play-Store.jpg",
+                                            alt: "Download on Play Store",
+                                            className: "w-full object-cover"
+                                        }, void 0, false, {
+                                            fileName: "[project]/src/components/Footer.jsx",
+                                            lineNumber: 37,
+                                            columnNumber: 17
+                                        }, this)
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/components/Footer.jsx",
+                                        lineNumber: 32,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: "px-4 py-2 bg-zinc-200 dark:bg-zinc-700 rounded-lg text-sm font-medium text-zinc-700 dark:text-zinc-300",
+                                        children: "Googel Palystore — Coming Soon"
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/components/Footer.jsx",
+                                        lineNumber: 45,
+                                        columnNumber: 15
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/src/components/Footer.jsx",
+                                lineNumber: 30,
+                                columnNumber: 13
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/src/components/Footer.jsx",
+                        lineNumber: 17,
+                        columnNumber: 11
+                    }, this)
+                }, void 0, false, {
+                    fileName: "[project]/src/components/Footer.jsx",
+                    lineNumber: 16,
+                    columnNumber: 9
+                }, this),
+                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 px-6 py-8",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -196,22 +273,22 @@ function FooterPage() {
                                     children: "SainVandeBharat"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/Footer.jsx",
-                                    lineNumber: 14,
-                                    columnNumber: 15
+                                    lineNumber: 55,
+                                    columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "mt-2 text-sm text-zinc-600 dark:text-zinc-400",
                                     children: "Connecting communities, promoting local creators, and helping people find meaningful matches."
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/Footer.jsx",
-                                    lineNumber: 15,
-                                    columnNumber: 15
+                                    lineNumber: 56,
+                                    columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/Footer.jsx",
-                            lineNumber: 13,
-                            columnNumber: 13
+                            lineNumber: 54,
+                            columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "flex gap-12",
@@ -223,8 +300,8 @@ function FooterPage() {
                                             children: "Quick links"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/Footer.jsx",
-                                            lineNumber: 20,
-                                            columnNumber: 17
+                                            lineNumber: 64,
+                                            columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
                                             className: "mt-3 space-y-2 text-sm text-zinc-600 dark:text-zinc-400",
@@ -235,13 +312,13 @@ function FooterPage() {
                                                         children: "Marketplace"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Footer.jsx",
-                                                        lineNumber: 22,
-                                                        columnNumber: 23
+                                                        lineNumber: 67,
+                                                        columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/Footer.jsx",
-                                                    lineNumber: 22,
-                                                    columnNumber: 19
+                                                    lineNumber: 66,
+                                                    columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -249,13 +326,13 @@ function FooterPage() {
                                                         children: "Matches"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Footer.jsx",
-                                                        lineNumber: 23,
-                                                        columnNumber: 23
+                                                        lineNumber: 70,
+                                                        columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/Footer.jsx",
-                                                    lineNumber: 23,
-                                                    columnNumber: 19
+                                                    lineNumber: 69,
+                                                    columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -263,25 +340,25 @@ function FooterPage() {
                                                         children: "Community Hubs"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Footer.jsx",
-                                                        lineNumber: 24,
-                                                        columnNumber: 23
+                                                        lineNumber: 73,
+                                                        columnNumber: 19
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/Footer.jsx",
-                                                    lineNumber: 24,
-                                                    columnNumber: 19
+                                                    lineNumber: 72,
+                                                    columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/components/Footer.jsx",
-                                            lineNumber: 21,
-                                            columnNumber: 17
+                                            lineNumber: 65,
+                                            columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/Footer.jsx",
-                                    lineNumber: 19,
-                                    columnNumber: 15
+                                    lineNumber: 63,
+                                    columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     children: [
@@ -290,8 +367,8 @@ function FooterPage() {
                                             children: "Contact"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/Footer.jsx",
-                                            lineNumber: 29,
-                                            columnNumber: 17
+                                            lineNumber: 79,
+                                            columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
                                             className: "mt-3 space-y-2 text-sm text-zinc-600 dark:text-zinc-400",
@@ -300,40 +377,40 @@ function FooterPage() {
                                                     children: "hello@sainvandebharat.example"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/Footer.jsx",
-                                                    lineNumber: 31,
-                                                    columnNumber: 19
+                                                    lineNumber: 81,
+                                                    columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                     children: "+91 98765 43210"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/Footer.jsx",
-                                                    lineNumber: 32,
-                                                    columnNumber: 19
+                                                    lineNumber: 82,
+                                                    columnNumber: 17
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                     children: "Office: Jaipur, Raj. India"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/Footer.jsx",
-                                                    lineNumber: 33,
-                                                    columnNumber: 19
+                                                    lineNumber: 83,
+                                                    columnNumber: 17
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/components/Footer.jsx",
-                                            lineNumber: 30,
-                                            columnNumber: 17
+                                            lineNumber: 80,
+                                            columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/Footer.jsx",
-                                    lineNumber: 28,
-                                    columnNumber: 15
+                                    lineNumber: 78,
+                                    columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/Footer.jsx",
-                            lineNumber: 18,
-                            columnNumber: 13
+                            lineNumber: 62,
+                            columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             children: [
@@ -342,16 +419,16 @@ function FooterPage() {
                                     children: "Stay updated"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/Footer.jsx",
-                                    lineNumber: 39,
-                                    columnNumber: 15
+                                    lineNumber: 89,
+                                    columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text-sm text-zinc-600 dark:text-zinc-400 mt-2",
                                     children: "Subscribe to our newsletter for community highlights and product drops."
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/Footer.jsx",
-                                    lineNumber: 40,
-                                    columnNumber: 15
+                                    lineNumber: 90,
+                                    columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "mt-4 flex gap-2",
@@ -361,34 +438,34 @@ function FooterPage() {
                                             className: "rounded-lg bg-white flex-1"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/Footer.jsx",
-                                            lineNumber: 42,
-                                            columnNumber: 17
+                                            lineNumber: 95,
+                                            columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$antd$2f$es$2f$button$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$locals$3e$__$3c$export__default__as__Button$3e$__["Button"], {
                                             type: "primary",
                                             children: "Subscribe"
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/Footer.jsx",
-                                            lineNumber: 43,
-                                            columnNumber: 17
+                                            lineNumber: 99,
+                                            columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/components/Footer.jsx",
-                                    lineNumber: 41,
-                                    columnNumber: 15
+                                    lineNumber: 94,
+                                    columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/Footer.jsx",
-                            lineNumber: 38,
-                            columnNumber: 13
+                            lineNumber: 88,
+                            columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/components/Footer.jsx",
-                    lineNumber: 12,
-                    columnNumber: 11
+                    lineNumber: 53,
+                    columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "bg-white/60 dark:bg-zinc-900/60 border-t border-transparent",
@@ -401,19 +478,19 @@ function FooterPage() {
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/Footer.jsx",
-                        lineNumber: 49,
-                        columnNumber: 13
+                        lineNumber: 107,
+                        columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/components/Footer.jsx",
-                    lineNumber: 48,
-                    columnNumber: 11
+                    lineNumber: 106,
+                    columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/components/Footer.jsx",
-            lineNumber: 11,
-            columnNumber: 9
+            lineNumber: 10,
+            columnNumber: 7
         }, this)
     }, void 0, false);
 }
